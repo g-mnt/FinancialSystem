@@ -1,0 +1,8 @@
+1 - Deve haver um cadastro de usuário.
+2 - Cada Usuário deve poder criar 1..N contas de banco.
+3 - Cada Receita vai estar vinculada a uma conta de banco.
+4 - Cada Despesa vai estar relacionada a uma conta de banco.
+5 - Deve haver uma tela para análise de contas constando saldo.
+6 - Deve haver uma tela com histórico de uma determinada conta.
+7 - Deve haver uma tela de cadastro de receitas.
+8 - Deve haver uma tela de cadastro de despesas.
